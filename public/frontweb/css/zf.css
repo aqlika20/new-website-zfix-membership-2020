@@ -1,0 +1,30 @@
+.container-claim h1 {
+  font-size: 30px;
+}
+
+.container-claim p {
+  font-size: 20px;
+  color: black;
+}
+
+.container-claim li {
+  font-size: 20px;
+  color: black;
+  margin-left: 25px;
+  margin-top: 15px;
+}
+
+.container-claim {
+  padding-top: 100px;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 15%;
+}
+
+.justify{
+  text-align: justify;
+}
+
+.navbar-brand img {
+  width: 100px;
+}
